@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39163328580",
+    "project_id": "guarderia-21957",
+    "storage_bucket": "guarderia-21957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39163328580:android:5eb22f716150a28c91e411",
+        "android_client_info": {
+          "package_name": "mx.ipn.escom.guarderiaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39163328580-b3dfflc10mc0f8nacbpkafd560tvviba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTcED0cubxX5zWfS_zNJQwmZ78RsYXH7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39163328580-b3dfflc10mc0f8nacbpkafd560tvviba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

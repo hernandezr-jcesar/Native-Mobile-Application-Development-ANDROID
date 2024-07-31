@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">guarderiaapp</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_actividades">Actividades</string>
+    <string name="menu_incidencias">Incidencias</string>
+    <string name="menu_observaciones">Observaciones</string>
+    <string name="menu_cerrar_sesion">Cerrar Sesion</string>
+    <string name="navigation_header_icon">Navigation header icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_menu_inicio"
+            android:title="@string/menu_inicio"/>
+        <item
+            android:id="@+id/nav_actividades"
+            android:icon="@drawable/ic_menu_actividades"
+            android:title="@string/menu_actividades"/>
+        <item
+            android:id="@+id/nav_incidencias"
+            android:icon="@drawable/ic_menu_incidencias"
+            android:title="@string/menu_incidencias"/>
+        <item
+            android:id="@+id/nav_observaciones"
+            android:icon="@drawable/ic_menu_observaciones"
+            android:title="@string/menu_observaciones"/>
+    </group>
+    <item
+        android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_cerrarsesion"
+                android:icon="@drawable/ic_menu_cerrarsesion"
+                android:title="@string/menu_cerrar_sesion"/>
+        </menu>
+    </item>
+</menu>
